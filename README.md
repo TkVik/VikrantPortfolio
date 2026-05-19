@@ -1,8 +1,13 @@
 # Portfolio Blog Starter
 
-This is a porfolio site template complete with a blog.
+This is a porfolio site for myself.
+
+
+
 
 Everything is still in progress
+
+
 
 
 ## Demo
